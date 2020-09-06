@@ -13,7 +13,7 @@ class MainPage extends StatelessWidget {
           width: 200,
           height: 200,
           // color: Colors.green,
-          child: Row(
+          child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
